@@ -1,0 +1,1 @@
+It is a music player that uses Google Chrome as its front-end and an ML algorithm to recognize emotions on the user'sface. The user will be shown/recommended songs based on the mood that has been detected for them.
